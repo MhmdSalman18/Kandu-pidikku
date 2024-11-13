@@ -31,3 +31,27 @@ Make sure you have the following installed:
    git clone https://github.com/MhmdSalman18/Kandu-pidikku.git
    cd Kandu-pidikku
 
+2. Install dependencies:
+   ```bash
+   flutter pub get
+
+3. Run the app on an emulator or connected device:
+   ```bash
+   flutter run
+
+## Usage
+
+- Start the game by pressing the Start button to begin the timer.
+- Tap on cards to reveal images and find matching pairs.
+- Use the Add Custom Images button to pick images from your gallery.
+- Track your score and time; when you match all pairs, your completion time will be displayed.
+- Restart the game or reset to default images using the buttons in the app bar.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request for any new features or bug fixes.
+
+## Acknowledgments
+
+- Thanks to the Flutter community for their fantastic resources and support.
+- Icons provided by Icons8.
