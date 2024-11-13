@@ -30,3 +30,4 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/MhmdSalman18/Kandu-pidikku.git
    cd Kandu-pidikku
+
