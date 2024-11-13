@@ -1,4 +1,4 @@
-# Kandu Pidikku - Memory Matching Game
+# Kandu Pidikku 
 
 Kandu Pidikku is a fun and interactive memory matching game built using Flutter. The game allows players to match pairs of images, with features for using both default images and custom images. Players can track their score and completion time, providing a simple yet enjoyable user experience.
 
