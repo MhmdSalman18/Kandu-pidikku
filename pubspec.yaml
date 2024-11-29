@@ -36,10 +36,10 @@ dependencies:
 flutter_launcher_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "assets/icon.png"
+  image_path: "assets/images/logo.jpeg"
   min_sdk_android: 24 # android min sdk min:16, default 21
   adaptive_icon_background: "#ffffff" # You can use a color or image for the background
-  adaptive_icon_foreground: "assets/icon.png" # For adaptive icons on Android
+  adaptive_icon_foreground: "assets/images/logo.jpeg" # For adaptive icons on Android
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -69,14 +69,18 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/images/rao.jpg
-    - assets/images/abey.jpg
-    - assets/images/alfin.jpg
-    - assets/images/sanjo.jpg
-    - assets/images/edwin.jpg
-    - assets/images/gladson.jpg
-    - assets/images/hari.jpg
-    - assets/images/aromal.jpg
+    - assets/images/dark.jpeg
+    - assets/images/elec.jpeg
+    - assets/images/fire.jpeg
+    - assets/images/nature.jpeg
+    - assets/images/snow.jpeg
+    - assets/images/solar.jpeg
+    - assets/images/tech.jpeg
+    - assets/images/water.jpeg
+    - assets/images/logo.jpeg
+    - assets/images/logo.png
+
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

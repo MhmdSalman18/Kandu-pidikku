@@ -1,6 +1,5 @@
-
 import 'package:flutter/material.dart';
-import 'memory_game.dart';
+import 'splash_screen.dart';
 
 void main() {
   runApp(MyApp());
@@ -9,14 +8,12 @@ void main() {
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Memory Matching Game',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-        visualDensity: VisualDensity.adaptivePlatformDensity,
-      ),
-      home: MemoryGame(),
+      title: 'Mind Matchup',
+      theme: ThemeData(primarySwatch: Colors.blue),
+      home: SplashScreen(), // Set the splash screen as the initial page
     );
   }
 }
