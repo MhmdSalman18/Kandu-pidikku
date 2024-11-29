@@ -30,6 +30,7 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/MhmdSalman18/Kandu-pidikku.git
    cd Kandu-pidikku
+<<<<<<< HEAD
 
 2. Install dependencies:
    ```bash
@@ -37,6 +38,16 @@ Make sure you have the following installed:
 
 3. Run the app on an emulator or connected device:
    ```bash
+=======
+   
+   
+2. Install dependencies:
+     ```bash
+   flutter pub get
+
+2. Install dependencies:
+     ```bash
+>>>>>>> 1031422fd4da83805d33746548aa0c1f495a707f
    flutter run
 
 ## Usage
