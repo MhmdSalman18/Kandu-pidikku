@@ -13,7 +13,7 @@ Kandu Pidikku is a fun and interactive memory matching game built using Flutter.
 ## Screenshots
 
 <!-- Include some screenshots of your app's UI here -->
-![Game Screen](screenshots/game_screen.png)
+![Game Screen](assets/images/logo.jpeg)
 ![Custom Images](screenshots/custom_images.png)
 
 ## Getting Started
