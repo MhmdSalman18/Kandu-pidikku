@@ -5,10 +5,10 @@ A Flutter-based memory matching game where players match pairs of images while t
 ## Screenshots
 
 <div align="center">
-  <img src="assets/one.jpeg" width="200" alt="Home Screen" />
-  <img src="assets/two.jpeg" width="200" alt="Game Play" />
-  <img src="assets/three.jpeg" width="200" alt="Custom Images" />
-  <img src="assets/four.jpeg" width="200" alt="Score Screen" />
+  <img src="assets/one.png" width="200" alt="Home Screen" />
+  <img src="assets/two.png" width="200" alt="Game Play" />
+  <img src="assets/three.png" width="200" alt="Custom Images" />
+  <img src="assets/four.png" width="200" alt="Score Screen" />
 </div>
 
 ## Features
