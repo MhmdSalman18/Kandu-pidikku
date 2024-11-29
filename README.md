@@ -1,68 +1,57 @@
-# Kandu Pidikku 
+# Meta Minds
 
-Kandu Pidikku is a fun and interactive memory matching game built using Flutter. The game allows players to match pairs of images, with features for using both default images and custom images. Players can track their score and completion time, providing a simple yet enjoyable user experience.
-
-## Features
-
-- **Default & Custom Images**: Play with preloaded images or add your own custom images.
-- **Score Tracking**: Earn points for every matched pair.
-- **Timer**: Track the time taken to complete the game.
-- **Restart & Reset Options**: Restart the game or reset to default images.
-- **Responsive UI**: Optimized for a smooth experience on mobile devices.
+A Flutter-based memory matching game where players match pairs of images while tracking their performance.
 
 ## Screenshots
 
-<!-- Include some screenshots of your app's UI here -->
-![Game Screen](assets/images/logo.jpeg)
-![Custom Images](screenshots/custom_images.png)
+<div align="center">
+  <img src="assets/one.jpeg" width="200" alt="Home Screen" />
+  <img src="assets/two.jpeg" width="200" alt="Game Play" />
+  <img src="assets/three.jpeg" width="200" alt="Custom Images" />
+  <img src="assets/four.jpeg" width="200" alt="Score Screen" />
+</div>
 
-## Getting Started
+## Features
 
-### Prerequisites
+- Card matching gameplay with flip animations
+- Default and custom image support  
+- Score tracking
+- Game timer
+- Responsive design
 
-Make sure you have the following installed:
-- **Flutter SDK**: [Install Flutter](https://flutter.dev/docs/get-started/install)
-- **Git**: [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+## Installation
 
-### Installation
+```bash
+# Clone repository
+git clone https://github.com/yourusername/meta-minds.git
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/MhmdSalman18/Kandu-pidikku.git
-   cd Kandu-pidikku
-<<<<<<< HEAD
+# Install dependencies  
+cd meta-minds
+flutter pub get
+```
 
-2. Install dependencies:
-   ```bash
-   flutter pub get
+## Requirements 
 
-3. Run the app on an emulator or connected device:
-   ```bash
-=======
-   
-   
-2. Install dependencies:
-     ```bash
-   flutter pub get
+- Flutter SDK ≥ 3.0.0
+- Dart ≥ 2.17.0
+- iOS 11+ / Android 5.0+
 
-2. Install dependencies:
-     ```bash
->>>>>>> 1031422fd4da83805d33746548aa0c1f495a707f
-   flutter run
+## Game Instructions
 
-## Usage
+1. Launch app
+2. Select image set (default/custom)
+3. Tap to reveal cards
+4. Match all pairs
+5. View final score and time
 
-- Start the game by pressing the Start button to begin the timer.
-- Tap on cards to reveal images and find matching pairs.
-- Use the Add Custom Images button to pick images from your gallery.
-- Track your score and time; when you match all pairs, your completion time will be displayed.
-- Restart the game or reset to default images using the buttons in the app bar.
+## Development
 
-## Contributing
+Contributions welcome! Fork the repo and submit a pull request.
 
-Contributions are welcome! Please fork the repository and create a pull request for any new features or bug fixes.
+## License
 
-## Acknowledgments
+Released under MIT License
 
-- Thanks to the Flutter community for their fantastic resources and support.
-- Icons provided by Icons8.
+## Support
+
+File an issue in the repository for bugs or questions.

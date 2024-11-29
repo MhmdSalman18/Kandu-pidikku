@@ -79,6 +79,11 @@ flutter:
     - assets/images/water.jpeg
     - assets/images/logo.jpeg
     - assets/images/logo.png
+    - assets/one.png
+    - assets/two.png
+    - assets/three.png
+    - assets/four.png
+   
 
 
 
