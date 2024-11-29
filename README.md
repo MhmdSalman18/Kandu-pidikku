@@ -1,4 +1,4 @@
-# Meta Minds
+# Mind Matchup
 
 A Flutter-based memory matching game where players match pairs of images while tracking their performance.
 
@@ -24,10 +24,10 @@ A Flutter-based memory matching game where players match pairs of images while t
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/meta-minds.git
+git clone https://github.com/yourusername/mind-matchup.git
 
 # Install dependencies
-cd meta-minds
+cd mind-matchup
 flutter pub get
 ```
 
