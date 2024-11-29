@@ -5,6 +5,7 @@ A Flutter-based memory matching game where players match pairs of images while t
 ## Screenshots
 
 <div align="center">
+  <img src="assets/four.png" width="200" alt="Score Screen" />
   <img src="assets/one.png" width="200" alt="Home Screen" />
   <img src="assets/two.png" width="200" alt="Game Play" />
   <img src="assets/three.png" width="200" alt="Custom Images" />
@@ -14,7 +15,7 @@ A Flutter-based memory matching game where players match pairs of images while t
 ## Features
 
 - Card matching gameplay with flip animations
-- Default and custom image support  
+- Default and custom image support
 - Score tracking
 - Game timer
 - Responsive design
@@ -25,12 +26,12 @@ A Flutter-based memory matching game where players match pairs of images while t
 # Clone repository
 git clone https://github.com/yourusername/meta-minds.git
 
-# Install dependencies  
+# Install dependencies
 cd meta-minds
 flutter pub get
 ```
 
-## Requirements 
+## Requirements
 
 - Flutter SDK ≥ 3.0.0
 - Dart ≥ 2.17.0
